@@ -22,9 +22,13 @@
 ---
 
 ## 🚀 Proyectos destacados
+Resumen:
+Pruebas funcionales manuales para la app de movilidad UrbanRoutes. Incluye validaciones en ventanas emergentes, campos de entrada y lógica de reserva. Documentación de bugs reales con prioridad y severidad.
 
-🔗 [Sprint 7 - Automatización de Pruebas con Pytest](https://github.com/MigueYtriago07/sprint7-api-automation)  
-🔗 [Colección de pruebas manuales - Postman](https://github.com/MigueYtriago07/postman-manual-tests)
+Proyecto técnico en Python donde se automatizan pruebas a una REST API para la creación de kits personalizados. Incluye casos positivos y negativos con pytest, y una arquitectura modular profesional
+
+Testing manual en UrbanRoutes, plataforma de reservas de transporte urbano. Se evalúan componentes como el mapa, método de pago y lógica de reservas, con documentación técnica de bugs.
+
 
 ---
 
