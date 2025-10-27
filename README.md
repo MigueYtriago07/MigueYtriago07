@@ -5,7 +5,7 @@
 💻 Apasionado por la calidad del software, la documentación clara y el trabajo bien hecho.  
 🌱 Aprendiendo automatización con **Python, Pytest y Requests**  
 🌍 Estudiando inglés técnico para ampliar mis oportunidades profesionales
-🎮 Video Game Enthusiast
+ 🎮 Video Game Enthusiast
 ---
 ## 🛠️ Stack actual
 - ✅ Pruebas Manuales
